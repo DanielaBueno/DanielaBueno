@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=dracula&hide_border=true)
+![Daniela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielaBueno&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaBueno&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
