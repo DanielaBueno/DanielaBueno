@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # ¡Hola! 👋 Soy Daniela 🌸  
 
 💻 **Aprendiz en Análisis y Desarrollo de Software (SENA)**  
-🌱 Actualmente aprendiendo **Java, Python, JavaScript, bases de datos y desarrollo web full-stack.**  
+🌱 Actualmente aprendiendo **Java, Python, bases de datos y desarrollo web full-stack.**  
 📚 Me apasiona crear proyectos que combinen tecnología, organización y propósito.  
 
 ---
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 Estoy desarrollando un **sistema web para un herbario**, con login, gestión de usuarios, informes y versión PWA.  
 - 🌿 Me gusta construir interfaces limpias, intuitivas y responsivas.  
 - ✨ También disfruto aprender sobre **manifestación, finanzas, productividad y crecimiento personal.**  
-- 🎵 En mis ratos libres escucho **música clásica y K-pop**, leo y escribo.  
+<!-- - 🎵 En mis ratos libres escucho **música clásica y K-pop**, leo y escribo.  -->
 
 ---
 
