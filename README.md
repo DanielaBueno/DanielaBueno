@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # ¡Hola! 👋 Soy Daniela 🌸  
 
-💻 **Aprendiz en Análisis y Desarrollo de Software (SENA)**  
+💻 **Tecnologo en Análisis y Desarrollo de Software (SENA)**  
 🌱 Actualmente aprendiendo **Java, Python, bases de datos y desarrollo web full-stack.**  
 📚 Me apasiona crear proyectos que combinen tecnología, organización y propósito.  
 
