@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ## 🚀 Sobre mí
 - 🔭 Estoy desarrollando un **sistema web para un herbario**, con login, gestión de usuarios, informes y versión PWA.  
 - 🌿 Me gusta construir interfaces limpias, intuitivas y responsivas.  
-- ✨ También disfruto aprender sobre **manifestación, finanzas, productividad y crecimiento personal.**  
-<!-- - 🎵 En mis ratos libres escucho **música clásica y K-pop**, leo y escribo.  -->
+<!-- - - ✨ También disfruto aprender sobre **manifestación, finanzas, productividad y crecimiento personal.**  
+🎵 En mis ratos libres escucho **música clásica y K-pop**, leo y escribo.  -->
 
 ---
 
